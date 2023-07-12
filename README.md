@@ -1,2 +1,2 @@
 # Falcon-9-landing-prediction
-Determining if the first stage of Falcon 9 will land.
+Predicting if the first stage of Falcon 9 will land to determine cost of launch
